@@ -1,0 +1,58 @@
+
+
+
+  height: auto;
+
+'My custom fonts'
+
+#demoFont {
+font-family: Tahoma, Geneva, sans-serif;
+font-size: 25px;
+letter-spacing: 2.2px;
+word-spacing: 3px;
+color: #003A41;
+font-weight: 400;
+text-decoration: none;
+font-style: italic;
+font-variant: small-caps;
+text-transform: none;
+}
+
+#FontPlain {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+letter-spacing: 1px;
+word-spacing: 0px;
+color: #000000;
+font-weight: 400;
+text-decoration: none solid rgb(68, 68, 68);
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+}
+
+#FontTitle {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 24px;
+letter-spacing: 1px;
+word-spacing: 0px;
+color: #000000;
+font-weight: 700;
+text-decoration: none solid rgb(68, 68, 68);
+font-style: normal;
+font-variant: normal;
+text-transform: uppercase;
+}
+
+#Fontblue {
+font-family: Georgia, serif;
+font-size: 20px;
+letter-spacing: 1px;
+word-spacing: 0px;
+color: #60D1D6;
+font-weight: 400;
+text-decoration: none solid rgb(68, 68, 68);
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+}
